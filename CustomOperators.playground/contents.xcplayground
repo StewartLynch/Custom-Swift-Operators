@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Introduction'/>
+        <page name='Standard Operators'/>
+        <page name='Custom Infix Operators'/>
+        <page name='Custom Prefix Operators'/>
+        <page name='Custom Postfix Operators'/>
+    </pages>
+</playground>
