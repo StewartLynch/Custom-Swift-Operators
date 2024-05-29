@@ -6,14 +6,46 @@
 import Foundation
 
 code(for: "Examples Infix") {
+    let sum = 5 + 3
+    print(sum)
+    
+    var a = 5
+    a += 3
+    print(a)
+    
+    let isGreater = 5 > 3
+    print(isGreater)
 
+    let andResult = true || false
+    print(andResult)
 }
 
 code(for: "Example Prefix") {
-
+    let x = 5
+    print(-x)
+    
+    let isTrue = true
+    let isFalse = !isTrue
+    print(isFalse)
 }
 
 code(for: "Example Postfix") {
+    let optionalString: String?
+    optionalString = "Hello"
+    let length = optionalString?.count
+    print(length)
+    
+    let nonOptional = optionalString!
+    let length2 = nonOptional.count
+    print(length2)
+    
+    if let myString = optionalString {
+        print(myString.count)
+    } else {
+        print(0)
+    }
+    
+    print(optionalString?.count ?? 0)
 
 }
 /*:
