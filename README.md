@@ -1,6 +1,6 @@
 ## Custom Operators
 
-![SickerMe](Images/SickerMe.png)This repository contains the starter project Playground for the Custom Operators video.
+![SickerMe](Images/SickerMe.png)This repository contains the **completed source code** Playground for the Custom Operators video.
 
 
 
