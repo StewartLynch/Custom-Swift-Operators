@@ -7,8 +7,8 @@ import Foundation
 
 code(for: "Exponentiation") {
     print( 3 ^ 2 )
-    // 11 XOR 01 -> 01 == `1
-    print(pow(3, 2))
+    // 11 XOR 10 -> 01 == Dec 1
+    print(pow(3,2))
     print(3^^2)
     print(4*5^^2)
 }
