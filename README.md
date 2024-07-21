@@ -1,8 +1,9 @@
 ## Custom Operators
 
 ![SickerMe](Images/SickerMe.png)This repository contains the starter project Playground for the Custom Operators video.
-
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=SJ-zUfUejdA
+" target="_blank"><img src="http://img.youtube.com/vi/SJ-zUfUejdA/0.jpg" 
+alt="Custom Swift Operators" width="480" height="360" border="1" /></a>
 
 </a>
 
